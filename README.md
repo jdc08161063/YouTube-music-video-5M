@@ -27,10 +27,10 @@ WsPfSXJaelk
 
   * Files and entries are sorted by some sort of artist popularity.
   * Each text file includee video ID's of 500 artists
-  * overall, they are from approximately 10K artists.
+  * Overall, they are from approximately 10K artists.
 
 ## Crawlling by how?
-  * Using YouTube search API with keywords of `"{} official music video".format(artist_name)`. Hopefully it's more official music videos with a professional quality rather than amateur videos.
+  * Using YouTube search API with keywords of `"{} official music video".format(artist_name)`. Hopefully these are more of official music videos with a professional quality rather than amateur videos.
 
 ## Utilities
   * [pytube](https://github.com/nficano/pytube)
