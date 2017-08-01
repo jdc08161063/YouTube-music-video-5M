@@ -4,7 +4,7 @@ by Keunwoo Choi
 
 ## Statistics
 
-  * 5119955 video ID's in youtube in 20 text files.
+  * 5,119,955 video ID's in youtube in 20 text files.
   * file name: `"youtube_video_ids_{:0d}_{}.txt".format(file_index, n_ids_this_file)`
   * Entries of the files are either
     - `"\n"`
@@ -30,7 +30,7 @@ WsPfSXJaelk
   * Overall, they are from approximately 10K artists.
 
 ## Crawlling by how?
-  * Using YouTube search API with keywords of `"{} official music video".format(artist_name)`. Hopefully these are more of official music videos with a professional quality rather than amateur videos.
+  * I used YouTube search API with the keywords of `"{} official music video".format(artist_name)`. Hopefully these are more of official music videos with a professional quality rather than amateur ones.
 
 ## Utilities
   * [pytube](https://github.com/nficano/pytube)
