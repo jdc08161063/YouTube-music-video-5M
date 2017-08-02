@@ -1,6 +1,8 @@
-# YouTube-music-video-5M
+# YouTube-music-video-5M [BETA]
 
 by Keunwoo Choi
+
+This is a beta release, 02 Aug 2017.
 
 ## Statistics
 
@@ -34,3 +36,8 @@ WsPfSXJaelk
 
 ## Utilities
   * [pytube](https://github.com/nficano/pytube)
+  * [Spotify API](https://developer.spotify.com/web-api/)
+
+## Note
+  * Due to the law, no further information/feature will be added either from Youtube or Spotify.
+  * Some more stats will be added, e.g., the number of artist.
